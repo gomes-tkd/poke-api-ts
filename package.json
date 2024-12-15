@@ -1,0 +1,30 @@
+{
+  "name": "poke-api-ts",
+  "version": "1.0.0",
+  "description": "Poke API with TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gomes-tkd/poke-api-ts.git"
+  },
+  "author": "Jose Bolivar Gomes Grego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gomes-tkd/poke-api-ts/issues"
+  },
+  "homepage": "https://github.com/gomes-tkd/poke-api-ts#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "pokenode-ts": "^1.20.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.17.0",
+    "eslint": "^9.17.0",
+    "globals": "^15.13.0",
+    "typescript-eslint": "^8.18.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
